@@ -11,6 +11,7 @@ namespace Enemies
             if (other.CompareTag("Player"))
             {
                 PlayerStats.Instance.SubHealth();
+                other.GetComponent<PlayerHurt>().Hurt();
             }
         }
     }
