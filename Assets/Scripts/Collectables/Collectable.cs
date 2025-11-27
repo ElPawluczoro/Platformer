@@ -1,0 +1,18 @@
+﻿using System;
+using UnityEngine;
+
+namespace Collectables
+{
+    public abstract class Collectable : MonoBehaviour
+    {
+        private void OnTriggerEnter2D(Collider2D other)
+        {
+            if (other.CompareTag("Player"))
+            {
+                if(Collect()) Destroy(gameObject);
+            }
+        }
+
+        public abstract bool Collect();
+    }
+}
