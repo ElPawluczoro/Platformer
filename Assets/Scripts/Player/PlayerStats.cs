@@ -44,6 +44,11 @@ namespace Player
             if (onCoinsChanged != null) onCoinsChanged.Invoke(_coins);
         }
 
+        public void ResetCoins()
+        {
+            _coins = 0;
+            if (onCoinsChanged != null) onCoinsChanged.Invoke(_coins);
+        }
         public void AddHealth()
         {
             if (_health >= maxHealth) return;

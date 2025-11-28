@@ -12,12 +12,16 @@ namespace Game
     {
         public static LevelRestarter Instance;
         
-        [SerializeField] private List<Transform> collectables;
+        [SerializeField] private Transform collectables;
 
+        private GameObject _player;
         private Vector3 _playerStartPosition;
 
         private void Awake()
         {
+            collectables = GameObject.FindGameObjectWithTag("Collectables").GetComponent<Transform>();
+            _player = GameObject.FindGameObjectWithTag("Player");
+            
             if (Instance != null && Instance != this)
             {
                 Destroy(this.gameObject);
@@ -27,27 +31,33 @@ namespace Game
                 Instance =  this;
             }
             
-            _playerStartPosition = GameObject.FindGameObjectWithTag("Player").transform.position;
+            _playerStartPosition = _player.transform.position;
         }
 
 		public IEnumerator RestartLevel()
         {
-            GameObject player = GameObject.FindGameObjectWithTag("Player");
-            PlayerStats playerStats = GetComponent<PlayerStats>();
-            Rigidbody2D rb = player.GetComponent<Rigidbody2D>();
+            Rigidbody2D rb = _player.GetComponent<Rigidbody2D>();
             
-            player.GetComponent<PlayerMover>().ResetKnockback();
+            PlayerStats.Instance.ResetCoins();
+            foreach (Transform child in collectables)
+            {
+                child.gameObject.SetActive(true);
+            }
+            
+            //Physics
+            
+            _player.GetComponent<PlayerMover>().ResetKnockback();
             rb.simulated = false;
-            player.transform.position = _playerStartPosition;
+            _player.transform.position = _playerStartPosition;
             
             yield return new WaitForFixedUpdate();
             
             rb.simulated = true;
             rb.linearVelocity = Vector2.zero;
             
-            for(int i = 0; i < playerStats.MaxHealth; i++)
+            for(int i = 0; i < PlayerStats.Instance.MaxHealth; i++)
             {
-                playerStats.AddHealth();
+                PlayerStats.Instance.AddHealth();
             }
             
             
