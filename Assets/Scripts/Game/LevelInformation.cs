@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Player;
+using UnityEngine;
 
 namespace Game
 {
@@ -17,6 +18,11 @@ namespace Game
             else
             {
                 Instance = this;
+            }
+            
+            for(int i = 0; i < PlayerStats.Instance.MaxHealth; i++)
+            {
+                PlayerStats.Instance.AddHealth();
             }
         }
     }

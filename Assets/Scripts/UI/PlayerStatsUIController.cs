@@ -30,8 +30,6 @@ namespace UI
             
             PlayerStats.Instance.onHealthChanged += SetHealth;
             PlayerStats.Instance.onCoinsChanged += SetCoins;
-            
-            PlayerStats.Instance.AddHealth();
         }
         
         
