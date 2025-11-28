@@ -29,7 +29,7 @@ namespace Player
         {
             if (Instance != null && Instance != this)
             {
-                Destroy(this.gameObject);
+                Destroy(gameObject);
             }
             else
             {
@@ -56,7 +56,6 @@ namespace Player
         public void SubHealth()
         {
             _health--;
-            Debug.Log("Health: " + _health);
             if (onHealthChanged != null) onHealthChanged.Invoke(_health);
         }
     }

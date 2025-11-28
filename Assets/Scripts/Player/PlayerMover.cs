@@ -16,6 +16,11 @@ namespace Player
         private Rigidbody2D _rb;
         private PlayerState _playerState;
 
+        private float _knockbackTimer;
+        [SerializeField] private float knockbackTime = 0.3f;
+
+        public float KnockbackTimer => _knockbackTimer;
+
         private void Awake()
         {
             _inputActions = new PlayerInputActions();
@@ -49,18 +54,33 @@ namespace Player
         private void OnJump(InputAction.CallbackContext ctx)
         {
             if (!_playerState.Grounded) return;
+            if (_knockbackTimer > 0.1f) return;
             _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, jumpForce);
         }
         
         private void FixedUpdate()
         {
             //rb.linearVelocity = moveInput * speed;
-            _rb.linearVelocity = new Vector2(_moveInput.x * speed, _rb.linearVelocity.y);
+            if (_knockbackTimer <= 0f)
+            {
+                _rb.linearVelocity = new Vector2(_moveInput.x * speed, _rb.linearVelocity.y);
+            }
+            else
+            {
+                _knockbackTimer -= Time.fixedDeltaTime;
+                if(_knockbackTimer < 0.01f) _rb.linearVelocity = new Vector2(0, _rb.linearVelocity.y);
+            }
 
             if (_rb.linearVelocity.y < 0)
             {
                 _rb.linearVelocity += Vector2.up * (Physics2D.gravity.y * (fallMultiplier - 1) * Time.fixedDeltaTime);
             }
+        }
+
+        public void AddKnockback()
+        {
+            _knockbackTimer = knockbackTime;
+            _rb.linearVelocity = Vector2.zero;
         }
     }   
 }

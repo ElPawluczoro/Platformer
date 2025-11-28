@@ -8,17 +8,21 @@ namespace Player
         private static readonly int Moving = Animator.StringToHash("moving");
         private Animator _animator;
         private Rigidbody2D _rb;
+        private PlayerMover _playerMover;
 
         private void Awake()
         {
             _rb = GetComponent<Rigidbody2D>();
             _animator = GetComponent<Animator>();
+            _playerMover = GetComponent<PlayerMover>();
         }
 
         private void Update()
-        {
-            _animator.SetBool(Moving, Mathf.Abs(_rb.linearVelocity.x) > 0.01f);
-            SetRotation();
+        {   
+            var _linVelocity = Mathf.Abs(_rb.linearVelocity.x) > 0.01f;
+            var _knockback = _playerMover.KnockbackTimer > 0;
+            _animator.SetBool(Moving, _linVelocity && !_knockback);
+            if(_linVelocity && !_knockback) SetRotation();
         }
 
         private void SetRotation()
