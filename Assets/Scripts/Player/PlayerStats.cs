@@ -1,4 +1,5 @@
 ﻿using System;
+using Game;
 using UI;
 using UnityEngine;
 // ReSharper disable InconsistentNaming
@@ -45,11 +46,9 @@ namespace Player
 
         public void AddHealth()
         {
-            if (_health < maxHealth)
-            {
-                _health++;
-            }
+            if (_health >= maxHealth) return;
 
+            _health++;
             if (onHealthChanged != null) onHealthChanged.Invoke(_health);
         }
 
@@ -57,6 +56,7 @@ namespace Player
         {
             _health--;
             if (onHealthChanged != null) onHealthChanged.Invoke(_health);
+            if(_health <= 0) StartCoroutine(LevelRestarter.Instance.RestartLevel());
         }
     }
 }

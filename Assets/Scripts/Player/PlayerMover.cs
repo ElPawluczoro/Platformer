@@ -1,4 +1,5 @@
 using System;
+using Game;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -75,11 +76,19 @@ namespace Player
             {
                 _rb.linearVelocity += Vector2.up * (Physics2D.gravity.y * (fallMultiplier - 1) * Time.fixedDeltaTime);
             }
+            
+            if(transform.position.y <= LevelInformation.Instance.minimalY) StartCoroutine(LevelRestarter.Instance.RestartLevel());
         }
 
         public void AddKnockback()
         {
             _knockbackTimer = knockbackTime;
+            _rb.linearVelocity = Vector2.zero;
+        }
+
+        public void ResetKnockback()
+        {
+            _knockbackTimer = 0;
             _rb.linearVelocity = Vector2.zero;
         }
     }   

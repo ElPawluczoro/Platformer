@@ -5,7 +5,7 @@ namespace Collectables
 {
     public class Fruit : Collectable
     {
-        public override bool Collect()
+        protected override bool Collect()
         {
             if (PlayerStats.Instance.Health < 3)
             {

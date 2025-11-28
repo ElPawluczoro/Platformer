@@ -30690,6 +30690,8 @@ GameObject:
   - component: {fileID: 907659664}
   - component: {fileID: 907659663}
   - component: {fileID: 907659665}
+  - component: {fileID: 907659666}
+  - component: {fileID: 907659667}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -30744,6 +30746,32 @@ MonoBehaviour:
   healthSprite: {fileID: 7584909091477175504, guid: 6a3b677ebab767e4da4db9e6da264965, type: 3}
   emptyHealthSprite: {fileID: 2400690780651743819, guid: 6a3b677ebab767e4da4db9e6da264965, type: 3}
   coinsText: {fileID: 2022303340}
+--- !u!114 &907659666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 907659662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14a0bee5450440b08464aecd14aa2395, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectables: []
+--- !u!114 &907659667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 907659662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d66268259103483eb021e99d9446237d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minimalY: -10
 --- !u!1001 &914412480
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33010,11 +33038,11 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 619394802}
+  - {fileID: 907659664}
   - {fileID: 1149986606}
   - {fileID: 1023164189}
   - {fileID: 8172849733757939614}
   - {fileID: 1644589004}
   - {fileID: 732571259}
   - {fileID: 952515928}
-  - {fileID: 907659664}
   - {fileID: 171748767}

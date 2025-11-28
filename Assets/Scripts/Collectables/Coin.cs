@@ -5,7 +5,7 @@ namespace Collectables
 {
     public class Coin : Collectable
     {
-        public override bool Collect()
+        protected override bool Collect()
         {
             PlayerStats.Instance.AddCoin();
             return true;

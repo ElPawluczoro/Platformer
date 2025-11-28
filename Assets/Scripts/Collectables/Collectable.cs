@@ -9,10 +9,10 @@ namespace Collectables
         {
             if (other.CompareTag("Player"))
             {
-                if(Collect()) Destroy(gameObject);
+                if(Collect()) gameObject.SetActive(false);
             }
         }
 
-        public abstract bool Collect();
+        protected abstract bool Collect();
     }
 }
