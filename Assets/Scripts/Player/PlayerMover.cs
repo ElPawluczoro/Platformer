@@ -1,3 +1,4 @@
+using Audio;
 using Game;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -54,6 +55,7 @@ namespace Player
         {
             if (!_playerState.Grounded) return;
             if (_knockbackTimer > 0.1f) return;
+            AudioManager.Instance.PlayJumpSound();
             _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, jumpForce);
         }
         

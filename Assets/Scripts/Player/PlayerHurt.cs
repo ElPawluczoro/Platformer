@@ -1,4 +1,5 @@
 ﻿using System;
+using Audio;
 using UnityEngine;
 
 namespace Player
@@ -24,6 +25,7 @@ namespace Player
 
         public void Hurt()
         {
+            AudioManager.Instance.PlayHurtSound();
             _spriteRenderer.color = hurtColor;
             _countdown = hurtTime;
         }

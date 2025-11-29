@@ -17,6 +17,8 @@ namespace UI
         [SerializeField] private Sprite emptyHealthSprite;
         [SerializeField] private TMP_Text coinsText;
         
+        [SerializeField] private Sprite scoreSprite;
+        
         private void Awake()
         {
             if (Instance != null && Instance != this)
@@ -43,7 +45,30 @@ namespace UI
 
         private void SetCoins(int coins)
         {
-            coinsText.text = coins.ToString();
+            coinsText.text = ConvertToSprites(coins);
+        }
+
+        private string ConvertToSprites(int coins)
+        {
+            string s = coins.ToString();
+            string result = "";
+
+            foreach (char c in s)
+            {
+                result += $"<sprite name=\"{c}\">";
+            }
+            
+            return result;
         }
     }
 }
+
+
+
+
+
+
+
+
+
+

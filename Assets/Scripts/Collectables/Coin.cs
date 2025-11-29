@@ -1,4 +1,5 @@
-﻿using Player;
+﻿using Audio;
+using Player;
 using UnityEngine;
 
 namespace Collectables
@@ -9,6 +10,11 @@ namespace Collectables
         {
             PlayerStats.Instance.AddCoin();
             return true;
+        }
+
+        protected override void PlaySound()
+        {
+            AudioManager.Instance.PlayCoinSound();
         }
     }
 }

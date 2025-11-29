@@ -1,4 +1,5 @@
-﻿using Player;
+﻿using Audio;
+using Player;
 using UnityEngine;
 
 namespace Collectables
@@ -13,6 +14,11 @@ namespace Collectables
                 return true;
             }
             return false;
+        }
+
+        protected override void PlaySound()
+        {
+            AudioManager.Instance.PlayFruitSound();
         }
     }
 }

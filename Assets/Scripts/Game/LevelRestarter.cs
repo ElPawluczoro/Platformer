@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using Audio;
 using Collectables;
 using Player;
 using UnityEngine;
@@ -36,6 +37,8 @@ namespace Game
 
 		public IEnumerator RestartLevel()
         {
+            AudioManager.Instance.PlayDeathSound();
+            
             Rigidbody2D rb = _player.GetComponent<Rigidbody2D>();
             
             PlayerStats.Instance.ResetCoins();
