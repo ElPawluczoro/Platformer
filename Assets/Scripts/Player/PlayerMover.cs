@@ -18,6 +18,8 @@ namespace Player
 
         private float _knockbackTimer;
         [SerializeField] private float knockbackTime = 0.3f;
+        
+        public bool movementAllowed = true;
 
         public float KnockbackTimer => _knockbackTimer;
 
@@ -55,13 +57,15 @@ namespace Player
         {
             if (!_playerState.Grounded) return;
             if (_knockbackTimer > 0.1f) return;
+            if (!movementAllowed) return;
             AudioManager.Instance.PlayJumpSound();
             _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, jumpForce);
         }
         
         private void FixedUpdate()
         {
-            //rb.linearVelocity = moveInput * speed;
+            if (!movementAllowed) return;
+            
             if (_knockbackTimer <= 0f)
             {
                 _rb.linearVelocity = new Vector2(_moveInput.x * speed, _rb.linearVelocity.y);
@@ -89,6 +93,13 @@ namespace Player
         public void ResetKnockback()
         {
             _knockbackTimer = 0;
+            _rb.linearVelocity = Vector2.zero;
+        }
+        
+        public void StopPlayer()
+        {
+            movementAllowed = false;
+            ResetKnockback();
             _rb.linearVelocity = Vector2.zero;
         }
     }   

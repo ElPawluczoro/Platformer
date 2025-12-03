@@ -1,0 +1,1669 @@
+fileFormatVersion: 2
+guid: 30f106d4075bbee4baa615b1f98dbf48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -825855077544855921
+    second: Pixel UI pack 1_0
+  - first:
+      213: 2644187960349470963
+    second: Pixel UI pack 1_1
+  - first:
+      213: -3337158695053989848
+    second: Pixel UI pack 1_2
+  - first:
+      213: 2426884344419996280
+    second: Pixel UI pack 1_3
+  - first:
+      213: 8024795326752150155
+    second: Pixel UI pack 1_4
+  - first:
+      213: -3568253234799606981
+    second: Pixel UI pack 1_5
+  - first:
+      213: 8007199910048627496
+    second: Pixel UI pack 1_6
+  - first:
+      213: -671771807649252554
+    second: Pixel UI pack 1_7
+  - first:
+      213: 3453883447508431460
+    second: Pixel UI pack 1_8
+  - first:
+      213: 3298979127606021782
+    second: Pixel UI pack 1_9
+  - first:
+      213: -6798008005890752040
+    second: Pixel UI pack 1_10
+  - first:
+      213: 1000121508289102257
+    second: Pixel UI pack 1_11
+  - first:
+      213: 6681833111273557150
+    second: Pixel UI pack 1_12
+  - first:
+      213: 2225602022710006715
+    second: Pixel UI pack 1_13
+  - first:
+      213: -4653914423294968396
+    second: Pixel UI pack 1_14
+  - first:
+      213: -6396085567802467700
+    second: Pixel UI pack 1_15
+  - first:
+      213: -4405999919384962271
+    second: Pixel UI pack 1_16
+  - first:
+      213: -1429897455733447238
+    second: Pixel UI pack 1_17
+  - first:
+      213: 3826990956115589362
+    second: Pixel UI pack 1_18
+  - first:
+      213: -1114583641463371876
+    second: Pixel UI pack 1_19
+  - first:
+      213: -7896283366652559343
+    second: Pixel UI pack 1_20
+  - first:
+      213: 1808217228979033346
+    second: Pixel UI pack 1_21
+  - first:
+      213: -1029300399827812010
+    second: Pixel UI pack 1_22
+  - first:
+      213: 231485698615297452
+    second: Pixel UI pack 1_23
+  - first:
+      213: -5305842481684231493
+    second: Pixel UI pack 1_24
+  - first:
+      213: -8916858439980353050
+    second: Pixel UI pack 1_25
+  - first:
+      213: 6815005821210814723
+    second: Pixel UI pack 1_26
+  - first:
+      213: -8720877890799677455
+    second: Pixel UI pack 1_27
+  - first:
+      213: 5506781093676495472
+    second: Pixel UI pack 1_28
+  - first:
+      213: 459038691150105677
+    second: Pixel UI pack 1_29
+  - first:
+      213: -8227457946759729908
+    second: Pixel UI pack 1_30
+  - first:
+      213: -6632512200784342820
+    second: Pixel UI pack 1_31
+  - first:
+      213: 3617085519430545544
+    second: Pixel UI pack 1_32
+  - first:
+      213: 5490297195215427327
+    second: Pixel UI pack 1_33
+  - first:
+      213: 2098073483423124120
+    second: Pixel UI pack 1_34
+  - first:
+      213: -3418459101969409678
+    second: Pixel UI pack 1_35
+  - first:
+      213: -4882370546815485608
+    second: Pixel UI pack 1_36
+  - first:
+      213: -8081688950787560584
+    second: Pixel UI pack 1_37
+  - first:
+      213: -7516590694242352834
+    second: Pixel UI pack 1_38
+  - first:
+      213: 8551501688870627925
+    second: Pixel UI pack 1_39
+  - first:
+      213: 8716276627522068707
+    second: Pixel UI pack 1_40
+  - first:
+      213: 2267117611092826221
+    second: Pixel UI pack 1_41
+  - first:
+      213: -6190785786326183783
+    second: Pixel UI pack 1_42
+  - first:
+      213: -7043927005451301303
+    second: Pixel UI pack 1_43
+  - first:
+      213: 7520072428799407546
+    second: Pixel UI pack 1_44
+  - first:
+      213: -8713979500690382324
+    second: Pixel UI pack 1_45
+  - first:
+      213: 2872079009806699411
+    second: Pixel UI pack 1_46
+  - first:
+      213: 4698084734912320967
+    second: Pixel UI pack 1_47
+  - first:
+      213: 1139651993604267385
+    second: Pixel UI pack 1_48
+  - first:
+      213: -6373699566764805444
+    second: Pixel UI pack 1_49
+  - first:
+      213: -3247213812614041250
+    second: Pixel UI pack 1_50
+  - first:
+      213: 2349467858123774272
+    second: Pixel UI pack 1_51
+  - first:
+      213: 7444907218686122113
+    second: Pixel UI pack 1_52
+  - first:
+      213: -4464464098363829914
+    second: Pixel UI pack 1_53
+  - first:
+      213: -2448536373885827900
+    second: Pixel UI pack 1_54
+  - first:
+      213: -7788530233391496657
+    second: Pixel UI pack 1_55
+  - first:
+      213: 3481882264696885822
+    second: Pixel UI pack 1_56
+  - first:
+      213: -4338224008231212659
+    second: Pixel UI pack 1_57
+  - first:
+      213: -1936670178838225054
+    second: Pixel UI pack 1_58
+  - first:
+      213: -8304841742421485711
+    second: Pixel UI pack 1_59
+  - first:
+      213: 4027395517213066079
+    second: Pixel UI pack 1_60
+  - first:
+      213: -2088847423854922478
+    second: Pixel UI pack 1_61
+  - first:
+      213: -2836869914964510072
+    second: Pixel UI pack 1_62
+  - first:
+      213: 6955031455716561812
+    second: Pixel UI pack 1_63
+  - first:
+      213: 5672865114373124741
+    second: Pixel UI pack 1_64
+  - first:
+      213: -4650277964843037060
+    second: Pixel UI pack 1_65
+  - first:
+      213: 1034408452518713101
+    second: Pixel UI pack 1_66
+  - first:
+      213: 7130044889333264534
+    second: Pixel UI pack 1_67
+  - first:
+      213: -2799937082790339132
+    second: Pixel UI pack 1_68
+  - first:
+      213: -5309741198838923085
+    second: Pixel UI pack 1_69
+  - first:
+      213: -729278655770719794
+    second: Pixel UI pack 1_70
+  - first:
+      213: -8678637353308842324
+    second: Pixel UI pack 1_71
+  - first:
+      213: -5913271259585754490
+    second: Pixel UI pack 1_72
+  - first:
+      213: 8037278822220683920
+    second: Pixel UI pack 1_73
+  - first:
+      213: 5898343471486523616
+    second: Pixel UI pack 1_74
+  - first:
+      213: 7054122074006996332
+    second: Pixel UI pack 1_75
+  - first:
+      213: 6227642782682184963
+    second: Pixel UI pack 1_76
+  - first:
+      213: -6983707289306830077
+    second: Pixel UI pack 1_77
+  - first:
+      213: -4777918584308651381
+    second: Pixel UI pack 1_78
+  - first:
+      213: -3776933454315099916
+    second: Pixel UI pack 1_79
+  - first:
+      213: -5621660531065347986
+    second: Pixel UI pack 1_80
+  - first:
+      213: 2930862857966265213
+    second: Pixel UI pack 1_81
+  - first:
+      213: 3558540917947301689
+    second: Pixel UI pack 1_82
+  - first:
+      213: 1886572930164663075
+    second: Pixel UI pack 1_83
+  - first:
+      213: -423851365512697530
+    second: Pixel UI pack 1_84
+  - first:
+      213: 7299216405032176966
+    second: Pixel UI pack 1_85
+  - first:
+      213: -2480019252142299767
+    second: Pixel UI pack 1_86
+  - first:
+      213: 4714974131200431887
+    second: Pixel UI pack 1_87
+  - first:
+      213: 5904183497310725116
+    second: Pixel UI pack 1_88
+  - first:
+      213: 5335864006819201778
+    second: Pixel UI pack 1_89
+  - first:
+      213: 9149081150046509467
+    second: Pixel UI pack 1_90
+  - first:
+      213: -1714826286559199688
+    second: Pixel UI pack 1_91
+  - first:
+      213: 1692868413046533584
+    second: Pixel UI pack 1_92
+  - first:
+      213: -4706772820784091233
+    second: Pixel UI pack 1_93
+  - first:
+      213: -1897697811999063510
+    second: Pixel UI pack 1_94
+  - first:
+      213: 839520458469257281
+    second: Pixel UI pack 1_95
+  - first:
+      213: -7039522492714489720
+    second: Pixel UI pack 1_96
+  - first:
+      213: 8821744294002104068
+    second: Pixel UI pack 1_97
+  - first:
+      213: 1830858184442682003
+    second: Pixel UI pack 1_98
+  - first:
+      213: -4486504060233907196
+    second: Pixel UI pack 1_99
+  - first:
+      213: -2839709544995079636
+    second: Pixel UI pack 1_100
+  - first:
+      213: 2679920505621507445
+    second: Pixel UI pack 1_101
+  - first:
+      213: -6261551561265349393
+    second: Pixel UI pack 1_102
+  - first:
+      213: -2005418442686392276
+    second: Pixel UI pack 1_103
+  - first:
+      213: 4837255335099634309
+    second: Pixel UI pack 1_104
+  - first:
+      213: 8632284690201293218
+    second: Pixel UI pack 1_105
+  - first:
+      213: -2257806905206014344
+    second: Pixel UI pack 1_106
+  - first:
+      213: 6965180548041100383
+    second: Pixel UI pack 1_107
+  - first:
+      213: 2552546186999777071
+    second: Pixel UI pack 1_108
+  - first:
+      213: 1627526457832321798
+    second: Pixel UI pack 1_109
+  - first:
+      213: 6714172852631649427
+    second: Pixel UI pack 1_110
+  - first:
+      213: -6890008930149544167
+    second: Pixel UI pack 1_111
+  - first:
+      213: 7749302902257792458
+    second: Pixel UI pack 1_112
+  - first:
+      213: -8805225764385176083
+    second: Pixel UI pack 1_113
+  - first:
+      213: 7607887169483296808
+    second: Pixel UI pack 1_114
+  - first:
+      213: -5413267736532539621
+    second: Pixel UI pack 1_115
+  - first:
+      213: -7385083887601695295
+    second: Pixel UI pack 1_116
+  - first:
+      213: 7758080344551047224
+    second: Pixel UI pack 1_117
+  - first:
+      213: -3352667788177765721
+    second: Pixel UI pack 1_118
+  - first:
+      213: -3835867686802820430
+    second: Pixel UI pack 1_119
+  - first:
+      213: -4067164880539024142
+    second: Pixel UI pack 1_120
+  - first:
+      213: 848879923546652490
+    second: Pixel UI pack 1_121
+  - first:
+      213: 6684380685447772970
+    second: Pixel UI pack 1_122
+  - first:
+      213: 2078917184094893960
+    second: Pixel UI pack 1_123
+  - first:
+      213: 6603624101149239480
+    second: Pixel UI pack 1_124
+  - first:
+      213: 3580116123822170466
+    second: Pixel UI pack 1_125
+  - first:
+      213: -146814327902422743
+    second: Pixel UI pack 1_126
+  - first:
+      213: 7206355090951085920
+    second: Pixel UI pack 1_127
+  - first:
+      213: -3828500944859378868
+    second: Pixel UI pack 1_128
+  - first:
+      213: 599938630245932230
+    second: Pixel UI pack 1_129
+  - first:
+      213: -3423361135368863673
+    second: Pixel UI pack 1_130
+  - first:
+      213: -3234546148280303063
+    second: Pixel UI pack 1_131
+  - first:
+      213: 2116014334293983739
+    second: Pixel UI pack 1_132
+  - first:
+      213: 8252188600651558749
+    second: Pixel UI pack 1_133
+  - first:
+      213: -661922961931436627
+    second: Pixel UI pack 1_134
+  - first:
+      213: -1810281553809374409
+    second: Pixel UI pack 1_135
+  - first:
+      213: 8289422577284546341
+    second: Pixel UI pack 1_136
+  - first:
+      213: 4044810725515473356
+    second: Pixel UI pack 1_137
+  - first:
+      213: 4308036667050463268
+    second: Pixel UI pack 1_138
+  - first:
+      213: -3379380057964612592
+    second: Pixel UI pack 1_139
+  - first:
+      213: 2694353962325790317
+    second: Pixel UI pack 1_140
+  - first:
+      213: 307317170795097154
+    second: Pixel UI pack 1_141
+  - first:
+      213: -2318303779602994031
+    second: Pixel UI pack 1_142
+  - first:
+      213: -233373260552895189
+    second: Pixel UI pack 1_143
+  - first:
+      213: 7201089852676751801
+    second: Pixel UI pack 1_144
+  - first:
+      213: 5394424232778111494
+    second: Pixel UI pack 1_145
+  - first:
+      213: 485472804044028432
+    second: Pixel UI pack 1_146
+  - first:
+      213: 7880672970301195528
+    second: Pixel UI pack 1_147
+  - first:
+      213: -1386288140795320070
+    second: Pixel UI pack 1_148
+  - first:
+      213: -8638314266817779644
+    second: Pixel UI pack 1_149
+  - first:
+      213: -5304124954378088991
+    second: Pixel UI pack 1_150
+  - first:
+      213: 7161067876213696965
+    second: Pixel UI pack 1_151
+  - first:
+      213: -7350782783516230308
+    second: Pixel UI pack 1_152
+  - first:
+      213: -8525433411936364642
+    second: Pixel UI pack 1_153
+  - first:
+      213: -6469107798284208288
+    second: Pixel UI pack 1_154
+  - first:
+      213: 2214274284518534172
+    second: Pixel UI pack 1_155
+  - first:
+      213: -1157893819581784914
+    second: Pixel UI pack 1_156
+  - first:
+      213: 3378098896107815241
+    second: Pixel UI pack 1_157
+  - first:
+      213: 5791248040191216267
+    second: Pixel UI pack 1_158
+  - first:
+      213: -4342502966145709287
+    second: Pixel UI pack 1_159
+  - first:
+      213: -6716837311855721532
+    second: Pixel UI pack 1_160
+  - first:
+      213: 1581302680732236662
+    second: Pixel UI pack 1_161
+  - first:
+      213: -8370453588332799134
+    second: Pixel UI pack 1_162
+  - first:
+      213: -6164580628497707028
+    second: Pixel UI pack 1_163
+  - first:
+      213: 6366586214077225728
+    second: Pixel UI pack 1_164
+  - first:
+      213: 8284383711200810712
+    second: Pixel UI pack 1_165
+  - first:
+      213: 2504720685822784186
+    second: Pixel UI pack 1_166
+  - first:
+      213: 8856548519600991580
+    second: Pixel UI pack 1_167
+  - first:
+      213: -6298897652979687266
+    second: Pixel UI pack 1_168
+  - first:
+      213: -7008699380310661780
+    second: Pixel UI pack 1_169
+  - first:
+      213: -5654399146717800049
+    second: Pixel UI pack 1_170
+  - first:
+      213: -1521968551967729352
+    second: Pixel UI pack 1_171
+  - first:
+      213: -2687790087359787438
+    second: Pixel UI pack 1_172
+  - first:
+      213: 3638415875044881943
+    second: Pixel UI pack 1_173
+  - first:
+      213: 5226002426717144657
+    second: Pixel UI pack 1_174
+  - first:
+      213: 1270286337641695761
+    second: Pixel UI pack 1_175
+  - first:
+      213: 6413326523698850198
+    second: Pixel UI pack 1_176
+  - first:
+      213: 2651916150078572018
+    second: Pixel UI pack 1_177
+  - first:
+      213: -1503155754554524367
+    second: Pixel UI pack 1_178
+  - first:
+      213: 2963340249682075040
+    second: Pixel UI pack 1_179
+  - first:
+      213: 2290932399909840853
+    second: Pixel UI pack 1_180
+  - first:
+      213: 2515355715721952684
+    second: Pixel UI pack 1_181
+  - first:
+      213: 468039674406146287
+    second: Pixel UI pack 1_182
+  - first:
+      213: 571360740616262033
+    second: Pixel UI pack 1_183
+  - first:
+      213: 2139466378883206055
+    second: Pixel UI pack 1_184
+  - first:
+      213: 5365553697309052432
+    second: Pixel UI pack 1_185
+  - first:
+      213: 6751246891747922090
+    second: Pixel UI pack 1_186
+  - first:
+      213: 8598959492085535231
+    second: Pixel UI pack 1_187
+  - first:
+      213: -5958776590302156894
+    second: Pixel UI pack 1_188
+  - first:
+      213: -6651399443619817723
+    second: Pixel UI pack 1_189
+  - first:
+      213: 9158817902889680987
+    second: Pixel UI pack 1_190
+  - first:
+      213: -4228588346346930636
+    second: Pixel UI pack 1_191
+  - first:
+      213: -8286197504075256817
+    second: Pixel UI pack 1_192
+  - first:
+      213: 4389262158636536027
+    second: Pixel UI pack 1_193
+  - first:
+      213: -783079303536371083
+    second: Pixel UI pack 1_194
+  - first:
+      213: 7549066653384577443
+    second: Pixel UI pack 1_195
+  - first:
+      213: -5511987480113704607
+    second: Pixel UI pack 1_196
+  - first:
+      213: -6119244301451187659
+    second: Pixel UI pack 1_197
+  - first:
+      213: 6393802123052604264
+    second: Pixel UI pack 1_198
+  - first:
+      213: 3693484441631840862
+    second: Pixel UI pack 1_199
+  - first:
+      213: -3596759858532662054
+    second: Pixel UI pack 1_200
+  - first:
+      213: -7185101346849894103
+    second: Pixel UI pack 1_201
+  - first:
+      213: 6911032918013090280
+    second: Pixel UI pack 1_202
+  - first:
+      213: 6290373659644181951
+    second: Pixel UI pack 1_203
+  - first:
+      213: -8818272584439102585
+    second: Pixel UI pack 1_204
+  - first:
+      213: 2156068442529319620
+    second: Pixel UI pack 1_205
+  - first:
+      213: -5636192894988121249
+    second: Pixel UI pack 1_206
+  - first:
+      213: -8212324735396314455
+    second: Pixel UI pack 1_207
+  - first:
+      213: -8615636012094216871
+    second: Pixel UI pack 1_208
+  - first:
+      213: -6069948610400778161
+    second: Pixel UI pack 1_209
+  - first:
+      213: 6367178030935711126
+    second: Pixel UI pack 1_210
+  - first:
+      213: -5553435946616435562
+    second: Pixel UI pack 1_211
+  - first:
+      213: -6588067942358737014
+    second: Pixel UI pack 1_212
+  - first:
+      213: -6888958434346795457
+    second: Pixel UI pack 1_213
+  - first:
+      213: -5425646854709746994
+    second: Pixel UI pack 1_214
+  - first:
+      213: -3342694223549014209
+    second: Pixel UI pack 1_215
+  - first:
+      213: -6678004413094711300
+    second: Pixel UI pack 1_216
+  - first:
+      213: 6965175101366513057
+    second: Pixel UI pack 1_217
+  - first:
+      213: 1085235883688827386
+    second: Pixel UI pack 1_218
+  - first:
+      213: -2255288453207120661
+    second: Pixel UI pack 1_219
+  - first:
+      213: -5476282517226095558
+    second: Pixel UI pack 1_220
+  - first:
+      213: 1466134094153811459
+    second: Pixel UI pack 1_221
+  - first:
+      213: -3175651264890200785
+    second: Pixel UI pack 1_222
+  - first:
+      213: -5906019528468784453
+    second: Pixel UI pack 1_223
+  - first:
+      213: 63994079098991548
+    second: Pixel UI pack 1_224
+  - first:
+      213: -1817156268474528458
+    second: Pixel UI pack 1_225
+  - first:
+      213: -2719464648132650522
+    second: Pixel UI pack 1_226
+  - first:
+      213: 8129206081870481949
+    second: Pixel UI pack 1_227
+  - first:
+      213: 5602939801275999575
+    second: Pixel UI pack 1_228
+  - first:
+      213: -6385491973097737104
+    second: Pixel UI pack 1_229
+  - first:
+      213: -6184788946945587191
+    second: Pixel UI pack 1_230
+  - first:
+      213: 5678654974416943362
+    second: Pixel UI pack 1_231
+  - first:
+      213: -3616953534000759354
+    second: Pixel UI pack 1_232
+  - first:
+      213: 6515788362336435261
+    second: Pixel UI pack 1_233
+  - first:
+      213: -1061718305357609524
+    second: Pixel UI pack 1_234
+  - first:
+      213: 1983170089768910847
+    second: Pixel UI pack 1_235
+  - first:
+      213: -594380437698357135
+    second: Pixel UI pack 1_236
+  - first:
+      213: 8935680636038542871
+    second: Pixel UI pack 1_237
+  - first:
+      213: 3908741175216967243
+    second: Pixel UI pack 1_238
+  - first:
+      213: -1642384572204766776
+    second: Pixel UI pack 1_239
+  - first:
+      213: -6300430815338389927
+    second: Pixel UI pack 1_240
+  - first:
+      213: -7928130934302173298
+    second: Pixel UI pack 1_241
+  - first:
+      213: 7215249944871422448
+    second: Pixel UI pack 1_242
+  - first:
+      213: 5410067874613384673
+    second: Pixel UI pack 1_243
+  - first:
+      213: 7691331276531196828
+    second: Pixel UI pack 1_244
+  - first:
+      213: 3722647092614251491
+    second: Pixel UI pack 1_245
+  - first:
+      213: 1022464928150553237
+    second: Pixel UI pack 1_246
+  - first:
+      213: 6987764293266100344
+    second: Pixel UI pack 1_247
+  - first:
+      213: 70767125259473125
+    second: Pixel UI pack 1_248
+  - first:
+      213: 8443766527176289748
+    second: Pixel UI pack 1_249
+  - first:
+      213: -4577397955370520260
+    second: Pixel UI pack 1_250
+  - first:
+      213: 3123771595568721672
+    second: Pixel UI pack 1_251
+  - first:
+      213: -6434106056344475350
+    second: Pixel UI pack 1_252
+  - first:
+      213: -9028957009907246541
+    second: Pixel UI pack 1_253
+  - first:
+      213: -3145769881546259644
+    second: Pixel UI pack 1_254
+  - first:
+      213: 5927387404338377501
+    second: Pixel UI pack 1_255
+  - first:
+      213: -7990329234835747764
+    second: Pixel UI pack 1_256
+  - first:
+      213: -8727005547053069858
+    second: Pixel UI pack 1_257
+  - first:
+      213: 5858509298154571018
+    second: Pixel UI pack 1_258
+  - first:
+      213: -8051788674639405109
+    second: Pixel UI pack 1_259
+  - first:
+      213: 5998328469468025447
+    second: Pixel UI pack 1_260
+  - first:
+      213: -2220182562775439061
+    second: Pixel UI pack 1_261
+  - first:
+      213: -455157224412822225
+    second: Pixel UI pack 1_262
+  - first:
+      213: 5343139131148773131
+    second: Pixel UI pack 1_263
+  - first:
+      213: -8973765625946710001
+    second: Pixel UI pack 1_264
+  - first:
+      213: 8057058777343321375
+    second: Pixel UI pack 1_265
+  - first:
+      213: 4642776521463288814
+    second: Pixel UI pack 1_266
+  - first:
+      213: 7491307600632784408
+    second: Pixel UI pack 1_267
+  - first:
+      213: 634354105960631905
+    second: Pixel UI pack 1_268
+  - first:
+      213: 3705508828603178160
+    second: Pixel UI pack 1_269
+  - first:
+      213: 4945972069173570739
+    second: Pixel UI pack 1_270
+  - first:
+      213: 4843875141230104793
+    second: Pixel UI pack 1_271
+  - first:
+      213: 2455005885339894211
+    second: Pixel UI pack 1_272
+  - first:
+      213: 7577601477087144557
+    second: Pixel UI pack 1_273
+  - first:
+      213: 6975926968957728455
+    second: Pixel UI pack 1_274
+  - first:
+      213: -2628265250513660729
+    second: Pixel UI pack 1_275
+  - first:
+      213: 721966458078037957
+    second: Pixel UI pack 1_276
+  - first:
+      213: 7705335111271657980
+    second: Pixel UI pack 1_277
+  - first:
+      213: -7901702473871171122
+    second: Pixel UI pack 1_278
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel UI pack 1_0
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473deb8a88eec05408142f13ba4847b0
+      internalID: 1309269095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76b456c77057c441a4eff623032c61a
+      internalID: 2033024291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71313181876c07844bb157b143dbce1f
+      internalID: 925511187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 320
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ee4c03f59b5f4586fde58bec17003
+      internalID: 1204599749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583cc15486911442abbf4b0d434acc4
+      internalID: -235733321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_5
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 352
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e693e2a705d494f8ce2392c7e0a26c
+      internalID: 1692401290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b543a648c8c8e44bf666812973e030
+      internalID: -1715782994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9097b1a89108438cdc8944f35115a
+      internalID: -1034742610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a5b5ffdbbe9fb4aa8b2640b6717f63
+      internalID: 1388458218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c21028c16184c4dbe41ac4ec960490
+      internalID: 472518719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e658de31b011eac428071782e7c03e5a
+      internalID: -2019501503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e338da78d26cc43a00bfb7ef6abe41
+      internalID: 2115791681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 384
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027df61a07b57bd42840d55d086340fd
+      internalID: -738355606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 384
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336cfb36fb3d896488fcf968dd026b91
+      internalID: -544091683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb362372fe42b438ca3cb576139e9f
+      internalID: 982556507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063311da78673de42b50be39e7680fd6
+      internalID: 198033547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91f9550826b1264fbc7055a03c304db
+      internalID: 2138527088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ed47fdede816544803ee0d0d99e8b6
+      internalID: 1251516164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a5d20b107bac4e89244d103a39793
+      internalID: -1912518538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6cad52c9458d4f8a0a3331741699f
+      internalID: -1695492039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98625b44591d9594488fd2165905524e
+      internalID: 312070913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c672cc762842642bb5e7b8e90873d2
+      internalID: -1774434844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20553a786ccdd1943b3fb1809fde3238
+      internalID: 1285751146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c367cad44603438802531915bd0bf
+      internalID: 1141417177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d51ab293f2d1b468238ee1b7aa2691
+      internalID: -304881421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c47fffe16759434da9e645cee0dd9ae
+      internalID: -1944595882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ff1a743396b2b47a01960587c96709
+      internalID: -170298938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82694e3bec21f61459434680be65ab14
+      internalID: -275693644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad23d31b8ff96be4fb60b751a7f09184
+      internalID: -596020157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681e8a0ab7c82e45a7e46f9c8f4b3d1
+      internalID: 1241278018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel UI pack 1_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0f47e0b089c704fbcca4cd64fef3ce
+      internalID: -1778999156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b52be00b57b171549b33f7af5c3079c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":960.0,"y":480.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pixel UI pack 1_0: 1309269095
+      Pixel UI pack 1_1: 2033024291
+      Pixel UI pack 1_10: -2019501503
+      Pixel UI pack 1_11: 2115791681
+      Pixel UI pack 1_12: -738355606
+      Pixel UI pack 1_13: -544091683
+      Pixel UI pack 1_14: 982556507
+      Pixel UI pack 1_15: 198033547
+      Pixel UI pack 1_16: 2138527088
+      Pixel UI pack 1_17: 1251516164
+      Pixel UI pack 1_18: -1912518538
+      Pixel UI pack 1_19: -1695492039
+      Pixel UI pack 1_2: 925511187
+      Pixel UI pack 1_20: 312070913
+      Pixel UI pack 1_21: -1774434844
+      Pixel UI pack 1_22: 1285751146
+      Pixel UI pack 1_23: 1141417177
+      Pixel UI pack 1_24: -304881421
+      Pixel UI pack 1_25: -1944595882
+      Pixel UI pack 1_26: -170298938
+      Pixel UI pack 1_27: -275693644
+      Pixel UI pack 1_28: -596020157
+      Pixel UI pack 1_29: 1241278018
+      Pixel UI pack 1_3: 1204599749
+      Pixel UI pack 1_30: -1778999156
+      Pixel UI pack 1_4: -235733321
+      Pixel UI pack 1_5: 1692401290
+      Pixel UI pack 1_6: -1715782994
+      Pixel UI pack 1_7: -1034742610
+      Pixel UI pack 1_8: 1388458218
+      Pixel UI pack 1_9: 472518719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

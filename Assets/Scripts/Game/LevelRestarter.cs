@@ -48,8 +48,9 @@ namespace Game
             }
             
             //Physics
-            
-            _player.GetComponent<PlayerMover>().ResetKnockback();
+
+            PlayerMover playerMover = _player.GetComponent<PlayerMover>();
+            playerMover.ResetKnockback();
             rb.simulated = false;
             _player.transform.position = _playerStartPosition;
             
@@ -62,8 +63,14 @@ namespace Game
             {
                 PlayerStats.Instance.AddHealth();
             }
-            
-            
+
+            playerMover.movementAllowed = true;
+        }
+
+        public void StopPlayer()
+        {
+            _player.GetComponent<PlayerMover>().StopPlayer();
+
         }
         
         
