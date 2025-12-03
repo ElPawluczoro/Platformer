@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Player;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -42,13 +43,24 @@ namespace Game
             if (!_save.completedLevels.Contains(levelID))
             {
                 _save.completedLevels.Add(levelID);
-                SaveSystemBinary.Save(_save);
+                Debug.Log(_save.bestScore[levelID]);
             }
+
+            if (PlayerStats.Instance.Coins >= _save.bestScore[levelID])
+            {
+                _save.bestScore[levelID] = PlayerStats.Instance.Coins;
+            }
+            SaveSystemBinary.Save(_save);
         }
 
         public List<int> LoadCompletedLevelsList()
         {
             return _save.completedLevels;
+        }
+
+        public int GetLevelBestScore(int i)
+        {
+            return _save.bestScore.GetValueOrDefault(i, 0);
         }
     }
 }
